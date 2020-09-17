@@ -1,6 +1,6 @@
 ## docsify
 
-> A magical documentation site generator.
+> A magical documentation site generator for Esoo.
 
 ## What it is
 
